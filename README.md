@@ -1,14 +1,12 @@
-## Getting Started
+##Prova03Poo
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+- herança de classes;
+- uso do método `super` no construtor da classe filha;
+- uso do método `super` em outro método (sem ser o construtor);
+- uma classe do tipo `final`;
+- uma classe do tipo `abstract`;
+- um método do tipo `final`;
+- sobrecarga de métodos;
+- sobrescrita de métodos;
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-## Dependency Management
-
-The `JAVA DEPENDENCIES` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-pack/blob/master/release-notes/v0.9.0.md#work-with-jar-files-directly).
+Autor: Jailson Quirino de Paula
